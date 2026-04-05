@@ -1,0 +1,23 @@
+[
+  {
+    "uid": "06:8C:75:1B",
+    "name": "Raj",
+    "relationship": "Son",
+    "image": "assets/images/raj.jpg",
+    "audio": "assets/audio/raj.mp3"
+  },
+  {
+    "uid": "E5:F6:G7:H8",
+    "name": "Mahi",
+    "relationship": "Daughter",
+    "image": "assets/images/mahi.jpg",
+    "audio": "assets/audio/raj.mp3"
+  },
+  {
+    "uid": "I9:J0:K1:L2",
+    "name": "Samridh",
+    "relationship": "Husband",
+    "image": "assets/images/samridh.jpg",
+    "audio": "assets/audio/sunita.mp3"
+  }
+]
